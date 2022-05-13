@@ -36,3 +36,16 @@
 2022-05-13 22:42:34.714  INFO 2476 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
 2022-05-13 22:42:34.757  INFO 2476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
 2022-05-13 22:42:34.767  INFO 2476 --- [restartedMain] bjectsToSolveCachePenetrationApplication : Started SpringBootRedisHmdpUseCacheEmptyObjectsToSolveCachePenetrationApplication in 2.667 seconds (JVM running for 3.269)
+2022-05-13 22:43:16.756  INFO 2476 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-13 22:43:16.757  INFO 2476 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-13 22:43:27.990  INFO 13344 --- [main] sToSolveCachePenetrationApplicationTests : Starting SpringBootRedisHmdpUseCacheEmptyObjectsToSolveCachePenetrationApplicationTests using Java 16.0.2 on mao with PID 13344 (started by mao in H:\程序\大三下期\spring_boot_redis_hmdp使用缓存空对象的方法解决缓存穿透问题)
+2022-05-13 22:43:27.991 DEBUG 13344 --- [main] sToSolveCachePenetrationApplicationTests : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-13 22:43:27.992  INFO 13344 --- [main] sToSolveCachePenetrationApplicationTests : The following 1 profile is active: "dev"
+2022-05-13 22:43:28.823  INFO 13344 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-13 22:43:28.827  INFO 13344 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-13 22:43:28.859  INFO 13344 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+2022-05-13 22:43:29.745  INFO 13344 --- [main] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-13 22:43:30.006  INFO 13344 --- [main] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-13 22:43:32.546  INFO 13344 --- [main] sToSolveCachePenetrationApplicationTests : Started SpringBootRedisHmdpUseCacheEmptyObjectsToSolveCachePenetrationApplicationTests in 5.057 seconds (JVM running for 6.014)
+2022-05-13 22:43:33.175  INFO 13344 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-13 22:43:33.176  INFO 13344 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
