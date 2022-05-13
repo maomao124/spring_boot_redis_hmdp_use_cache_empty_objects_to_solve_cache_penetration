@@ -1,0 +1,38 @@
+2022-05-13 22:42:06.836  INFO 16864 --- [restartedMain] bjectsToSolveCachePenetrationApplication : Starting SpringBootRedisHmdpUseCacheEmptyObjectsToSolveCachePenetrationApplication using Java 16.0.2 on mao with PID 16864 (H:\程序\大三下期\spring_boot_redis_hmdp使用缓存空对象的方法解决缓存穿透问题\target\classes started by mao in H:\程序\大三下期\spring_boot_redis_hmdp使用缓存空对象的方法解决缓存穿透问题)
+2022-05-13 22:42:06.837 DEBUG 16864 --- [restartedMain] bjectsToSolveCachePenetrationApplication : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-13 22:42:06.838  INFO 16864 --- [restartedMain] bjectsToSolveCachePenetrationApplication : The following 1 profile is active: "dev"
+2022-05-13 22:42:06.875  INFO 16864 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-13 22:42:06.876  INFO 16864 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-13 22:42:07.375  INFO 16864 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-13 22:42:07.376  INFO 16864 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-13 22:42:07.398  INFO 16864 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2022-05-13 22:42:07.898  INFO 16864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-13 22:42:07.906  INFO 16864 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-13 22:42:07.906  INFO 16864 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-13 22:42:07.970  INFO 16864 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-13 22:42:07.970  INFO 16864 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1094 ms
+2022-05-13 22:42:08.190  INFO 16864 --- [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-13 22:42:08.314  INFO 16864 --- [restartedMain] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-13 22:42:09.159  INFO 16864 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-13 22:42:09.197  INFO 16864 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-13 22:42:09.206  INFO 16864 --- [restartedMain] bjectsToSolveCachePenetrationApplication : Started SpringBootRedisHmdpUseCacheEmptyObjectsToSolveCachePenetrationApplication in 2.799 seconds (JVM running for 3.369)
+2022-05-13 22:42:20.454  INFO 16864 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closing ...
+2022-05-13 22:42:20.454  INFO 16864 --- [SpringApplicationShutdownHook] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} closed
+2022-05-13 22:42:32.442  INFO 2476 --- [restartedMain] bjectsToSolveCachePenetrationApplication : Starting SpringBootRedisHmdpUseCacheEmptyObjectsToSolveCachePenetrationApplication using Java 16.0.2 on mao with PID 2476 (H:\程序\大三下期\spring_boot_redis_hmdp使用缓存空对象的方法解决缓存穿透问题\target\classes started by mao in H:\程序\大三下期\spring_boot_redis_hmdp使用缓存空对象的方法解决缓存穿透问题)
+2022-05-13 22:42:32.443 DEBUG 2476 --- [restartedMain] bjectsToSolveCachePenetrationApplication : Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-13 22:42:32.444  INFO 2476 --- [restartedMain] bjectsToSolveCachePenetrationApplication : The following 1 profile is active: "dev"
+2022-05-13 22:42:32.488  INFO 2476 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-05-13 22:42:32.488  INFO 2476 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-05-13 22:42:33.016  INFO 2476 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-05-13 22:42:33.018  INFO 2476 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-05-13 22:42:33.043  INFO 2476 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2022-05-13 22:42:33.487  INFO 2476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2022-05-13 22:42:33.494  INFO 2476 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-05-13 22:42:33.494  INFO 2476 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.62]
+2022-05-13 22:42:33.562  INFO 2476 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-05-13 22:42:33.562  INFO 2476 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1073 ms
+2022-05-13 22:42:33.785  INFO 2476 --- [restartedMain] c.a.d.s.b.a.DruidDataSourceAutoConfigure : Init DruidDataSource
+2022-05-13 22:42:33.883  INFO 2476 --- [restartedMain] com.alibaba.druid.pool.DruidDataSource   : {dataSource-1} inited
+2022-05-13 22:42:34.714  INFO 2476 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-05-13 22:42:34.757  INFO 2476 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2022-05-13 22:42:34.767  INFO 2476 --- [restartedMain] bjectsToSolveCachePenetrationApplication : Started SpringBootRedisHmdpUseCacheEmptyObjectsToSolveCachePenetrationApplication in 2.667 seconds (JVM running for 3.269)
